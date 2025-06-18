@@ -5,7 +5,7 @@ A deep learning project to detect plant leaf diseases using CNN, trained on the 
 ---
 
 ## 📁 Dataset
-- **Source**: [Kaggle - PlantVillage Dataset](https://www.kaggle.com/datasets)
+- **Source**: [Kaggle - PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
 - **Classes**: Healthy, Bacterial Spot, Early Blight, Leaf Mold, etc.
 - **Images Used**: ~20,000
 
