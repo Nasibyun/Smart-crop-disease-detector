@@ -28,6 +28,12 @@ A deep learning project to detect plant leaf diseases using CNN, trained on the 
 
 ---
 
+## 🚀 Check Out the Gradio Live App
+Try the deployed app on Hugging Face Spaces here:  
+🔗 [https://huggingface.co/spaces/Nasibbb/plant-disease-detector](https://huggingface.co/spaces/Nasibbb/plant-disease-detector)
+
+---
+
 ## 🧑‍💻 Author
 **Nasib Khan**  
 [🔗 LinkedIn](https://www.linkedin.com/in/nasib-khan-0123459z786/) | [🌐 Kaggle](https://www.kaggle.com/nasibyun)
